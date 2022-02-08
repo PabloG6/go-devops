@@ -1,3 +1,4 @@
 *.env
-./test-folder
-./github/**
+test-folder
+github/**
+!example.env
