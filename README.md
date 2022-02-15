@@ -1,4 +1,5 @@
 #PROJECT INSTRUCTIONS
+
 First, create your .env file by using the `example.env` file for reference then run `source {filename}` in your terminal.
 Run the app with `go run main.go`
 Pull the current project to your base folder by calling `http://localhost:3000/get-project`
